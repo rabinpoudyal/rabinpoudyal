@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Rabin Poudyal 👋
+
+I am a back-end engineer and a Data Science enthusiast. I keep dabbling between web application development and machine learning. I also love sharing what I know through my blogs at [Medium](https://rabinpoudyal.medium.com) and [Dev.to](https://dev.to/poudyal_rabin). 
 
 <!--
 **rabinpoudyal/rabinpoudyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
