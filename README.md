@@ -1,6 +1,8 @@
 ### Hello, I'm Rabin Poudyal 👋
 
-I am a back-end engineer and a Data Science enthusiast. I keep dabbling between web application development and machine learning. I also love sharing what I know through my blogs at [Medium](https://rabinpoudyal.medium.com) and [Dev.to](https://dev.to/poudyal_rabin). 
+I am a Ruby On Rails developer (aka. Ruby On Rails engineer) and a seasonal Data Science practitioner. I keep dabbling between web application development( as a full stack ruby on rails developer) and machine learning( as a hobbiest). I also love sharing my knowledges and experiences gained throught these 4+ years as a rails programmer and a ruby engineer. I write my blogs at [Medium](https://rabinpoudyal.medium.com) and [Dev.to](https://dev.to/poudyal_rabin). 
+
+If you are looking for a ruby on rails developers for hire or another ruby on rails coder like me, don't hesitate to contact me via my [LinkedIn page](https://www.linkedin.com/in/rabin-poudyal/) or email me.
 
 <!--
 **rabinpoudyal/rabinpoudyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
